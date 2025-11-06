@@ -12,12 +12,13 @@ This project presents a Power BI dashboard that provides real-time insights into
 
 > **Datasets**
 
-credit_card.csv – Contains financial and transaction details.
+credit_card.csv – 
+Contains financial and transaction details.
 Columns: Client_Num, Card_Category, Annual_Fees, Activation_30_Days, Customer_Acq_Cost, Week_Start_Date, Total_Trans_Amt, Interest_Earned, Delinquent_Acc, etc.
 
-customer.csv – Contains demographic and personal details.
+customer.csv – 
+Contains demographic and personal details.
 Columns: Client_Num, Customer_Age, Gender, Education_Level, Income, Marital_Status, Cust_Satisfaction_Score, etc.
-
 Both datasets are joined using the Client_Num column for unified analysis.
 
 > **Tools & Technologies**
