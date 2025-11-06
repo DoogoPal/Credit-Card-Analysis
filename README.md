@@ -12,27 +12,27 @@ This project presents a Power BI dashboard that provides real-time insights into
 
 > **Datasets**
 
--credit_card.csv – Contains financial and transaction details.
+1. credit_card.csv – Contains financial and transaction details.
 Columns: Client_Num, Card_Category, Annual_Fees, Activation_30_Days, Customer_Acq_Cost, Week_Start_Date, Total_Trans_Amt, Interest_Earned, Delinquent_Acc, etc.
 
--customer.csv – 
+2. customer.csv – 
 Contains demographic and personal details.
 Columns: Client_Num, Customer_Age, Gender, Education_Level, Income, Marital_Status, Cust_Satisfaction_Score, etc.
 -Both datasets are joined using the Client_Num column for unified analysis.
 
 > **Tools & Technologies**
 
--Power BI – Dashboard creation and visualization
--Excel / CSV – Data source format
--DAX – Custom calculations and measures
+1. Power BI – Dashboard creation and visualization
+2. Excel / CSV – Data source format
+3. DAX – Custom calculations and measures
 
 > **Key Insights**
 
--Total Revenue: $57M | Interest Earned: $8M | Transaction Amount: $46M
--Activation Rate: 57.5% | Delinquency Rate: 6.06%
--Blue & Silver cards generate over 90% of total revenue.
--TX, NY, and CA are the top revenue-generating states.
--Majority of customers are educated, married, and aged 30–60.
+1. Total Revenue: $57M | Interest Earned: $8M | Transaction Amount: $46M
+2. Activation Rate: 57.5% | Delinquency Rate: 6.06%
+3. Blue & Silver cards generate over 90% of total revenue.
+4. TX, NY, and CA are the top revenue-generating states.
+5. Majority of customers are educated, married, and aged 30–60.
 
 > **Recommendations**
 
@@ -44,15 +44,18 @@ Columns: Client_Num, Customer_Age, Gender, Education_Level, Income, Marital_Stat
 
 > **Project Deliverables**
 
-Power BI Dashboard (.pbix file)
-Processed datasets (credit_card.csv, customer.csv)
-Project report presentation (.pptx)
+1. Power BI Dashboard (.pbix file)
+2. Processed datasets (credit_card.csv, customer.csv)
+3. Project report presentation (.pptx)
 
 > **Author**
 
 Neha Pal
+
 Data Analyst | Power BI | SQL | Excel | Python
+
 neha.pal.3355@gmail.com
+
 LinkedIn: www.linkedin.com/in/nehapal3355
 
 
